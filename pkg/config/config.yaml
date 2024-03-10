@@ -58,7 +58,7 @@ coordinator:
     workerWs:
   # HTTP(S) server config
   server:
-    address: :8000
+    address: :8001
     https: false
     # Letsencrypt or self cert config
     tls:
